@@ -15,7 +15,7 @@
 #include <ESP8266WiFi.h>
 
 //Name of the wifi network whom we are supposed to track
-const char* SSID = "SmS";
+const char* SSID = "SSID NAME";
 
 // Relay pin number
 #define relay1 0
